@@ -1,0 +1,2 @@
+# Mastering prerequisites relations: From handcrafted features to embeddings for PRELEARN at EVALITA 2020
+We present our systems and findings for the prerequisite relation learning task (PRELEARN) at EVALITA 2020.The task aims to classify whether a pair of concepts hold a prerequisite relation or not. We model the problem using handcrafted features and embedding representations for in-domain and cross-domain scenarios. Our submissions ranked first place in both scenarios with average F1-score of 0.887 and 0.690 respectively across domains on the test sets.
