@@ -1,0 +1,16 @@
+RESULTS:
+Metrics for label 1:
+Precision:	 0.9108910891089109
+Recall:	 0.92
+F-Score:	 0.9154228855721394
+
+Metrics for label 0:
+Precision:	 0.9191919191919192
+Recall:	 0.91
+F-Score:	 0.9145728643216081
+
+Average and Accuracy:
+Precision:	 0.9150415041504151
+Recall:	 0.915
+F-Score:	 0.9149978749468737
+Accuracy:	 0.915

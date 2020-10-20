@@ -1,0 +1,420 @@
+item,bn,wikiid,itemLabel
+http://www.wikidata.org/entity/Q164,00036107n,20467,quadrato
+http://www.wikidata.org/entity/Q209,00066608n,87117,rettangolo
+http://www.wikidata.org/entity/Q210,,35086,angolo retto
+http://www.wikidata.org/entity/Q2539,01647033n,605,apprendimento automatico
+http://www.wikidata.org/entity/Q8087,00040181n,2035,geometria
+http://www.wikidata.org/entity/Q11210,00022459n,42226,sistema di coordinate
+http://www.wikidata.org/entity/Q11352,00004117n,15910,angolo
+http://www.wikidata.org/entity/Q11518,,2214272,teorema di Pitagora
+http://www.wikidata.org/entity/Q12485,,554580,simmetria
+http://www.wikidata.org/entity/Q12507,00073310n,2258032,sfera
+http://www.wikidata.org/entity/Q17278,00019169n,19898,circonferenza
+http://www.wikidata.org/entity/Q17285,00062766n,48169,piano
+http://www.wikidata.org/entity/Q19821,00069476n,2904544,triangolo
+http://www.wikidata.org/entity/Q26382,00071436n,267681,spigolo
+http://www.wikidata.org/entity/Q26401,,596510,vertice
+http://www.wikidata.org/entity/Q34132,00024779n,52138,cilindro
+http://www.wikidata.org/entity/Q36810,00065492n,86605,quadrilatero
+http://www.wikidata.org/entity/Q37105,00051291n,26274,retta
+http://www.wikidata.org/entity/Q37221,00026841n,25259,diametro
+http://www.wikidata.org/entity/Q37555,00063423n,1244945,poligono
+http://www.wikidata.org/entity/Q41159,00026849n,610907,rombo
+http://www.wikidata.org/entity/Q42344,00021691n,391805,cono
+http://www.wikidata.org/entity/Q43478,,2398076,Selezione naturale
+http://www.wikidata.org/entity/Q44946,,48513,punto
+http://www.wikidata.org/entity/Q45867,00060576n,87064,parallelogramma
+http://www.wikidata.org/entity/Q46303,00078081n,86944,trapezio
+http://www.wikidata.org/entity/Q53875,,268070,parallelismo
+http://www.wikidata.org/entity/Q62912,00016307n,369748,sistema di riferimento cartesiano
+http://www.wikidata.org/entity/Q74304,,361518,metodo dei minimi quadrati
+http://www.wikidata.org/entity/Q83043,,129655,esagono
+http://www.wikidata.org/entity/Q93344,00022961n,26036,funzione trigonometrica
+http://www.wikidata.org/entity/Q107061,,87039,aquilone convesso
+http://www.wikidata.org/entity/Q126017,00027749n,8735,distanza
+http://www.wikidata.org/entity/Q127840,00061420n,14564,pentagono
+http://www.wikidata.org/entity/Q131251,,248862,tangente
+http://www.wikidata.org/entity/Q147572,00005362n,265456,arco
+http://www.wikidata.org/entity/Q152415,,1656374,seno
+http://www.wikidata.org/entity/Q154210,,225057,congruenza
+http://www.wikidata.org/entity/Q157002,,109857,triangolo equilatero
+http://www.wikidata.org/entity/Q158688,00067815n,109852,triangolo rettangolo
+http://www.wikidata.org/entity/Q166080,,328338,ottagono
+http://www.wikidata.org/entity/Q166154,00070193n,62127,segmento
+http://www.wikidata.org/entity/Q172937,00063428n,26011,poliedro
+http://www.wikidata.org/entity/Q173817,00065772n,221987,raggio
+http://www.wikidata.org/entity/Q180544,00064464n,102044,prisma
+http://www.wikidata.org/entity/Q184625,00025651n,1140445,decagono
+http://www.wikidata.org/entity/Q188191,,147738,corda
+http://www.wikidata.org/entity/Q188866,,874812,ettagono
+http://www.wikidata.org/entity/Q189791,,20472,diagonale
+http://www.wikidata.org/entity/Q200042,,869486,ennagono
+http://www.wikidata.org/entity/Q205034,,480117,perpendicolarità
+http://www.wikidata.org/entity/Q208042,,1844568,analisi della regressione
+http://www.wikidata.org/entity/Q208216,,126887,disuguaglianza triangolare
+http://www.wikidata.org/entity/Q208225,,50465,Terna pitagorica
+http://www.wikidata.org/entity/Q208498,,255044,intervallo di confidenza
+http://www.wikidata.org/entity/Q211459,,225194,traslazione
+http://www.wikidata.org/entity/Q212074,,1281356,dodecagono
+http://www.wikidata.org/entity/Q214382,,1616204,endecagono
+http://www.wikidata.org/entity/Q214856,00076643n,909863,tassellatura
+http://www.wikidata.org/entity/Q222032,,226642,bidimensionalità
+http://www.wikidata.org/entity/Q226995,,2735,mediana
+http://www.wikidata.org/entity/Q254465,,549329,similitudine
+http://www.wikidata.org/entity/Q262372,,2748058,auto similarità
+http://www.wikidata.org/entity/Q275447,,65939,coefficiente angolare
+http://www.wikidata.org/entity/Q282453,03499081n,263204,macchine a vettori di supporto
+http://www.wikidata.org/entity/Q309479,,1716607,Test t
+http://www.wikidata.org/entity/Q327069,,3550,probabilità condizionata
+http://www.wikidata.org/entity/Q367664,,5340062,modellazione dei dati
+http://www.wikidata.org/entity/Q425265,,1845509,significatività
+http://www.wikidata.org/entity/Q426221,00066812n,401720,riflessione
+http://www.wikidata.org/entity/Q426301,,28079,secante
+http://www.wikidata.org/entity/Q466303,,6539843,Boosting
+http://www.wikidata.org/entity/Q472971,00053830n,1016060,spazio
+http://www.wikidata.org/entity/Q541014,,2496382,Cross-validazione
+http://www.wikidata.org/entity/Q593744,00028142n,221079,base di conoscenza
+http://www.wikidata.org/entity/Q660848,,456307,sistema non lineare
+http://www.wikidata.org/entity/Q670036,,427952,Lunghezza di un arco
+http://www.wikidata.org/entity/Q674533,,620304,funzione trigonometrica inversa
+http://www.wikidata.org/entity/Q738628,,161098,Rapporto segnale/rumore
+http://www.wikidata.org/entity/Q779824,,1745121,Outlier
+http://www.wikidata.org/entity/Q816826,00744700n,434228,information retrieval
+http://www.wikidata.org/entity/Q836708,02485403n,1430203,poligono stellato
+http://www.wikidata.org/entity/Q845060,,253357,massimo e minimo di una funzione
+http://www.wikidata.org/entity/Q845080,,548967,sezione
+http://www.wikidata.org/entity/Q845739,,281074,linguaggio di interrogazione
+http://www.wikidata.org/entity/Q848368,,400021,rotazione
+http://www.wikidata.org/entity/Q875937,,338671,triangolo isoscele
+http://www.wikidata.org/entity/Q925854,,513690,teorema della bisettrice
+http://www.wikidata.org/entity/Q1139344,00041240n,608290,pendenza topografica
+http://www.wikidata.org/entity/Q1199743,,480718,discesa del gradiente
+http://www.wikidata.org/entity/Q1277447,,2354612,clustering gerarchico
+http://www.wikidata.org/entity/Q1419761,,404205,Collinearità
+http://www.wikidata.org/entity/Q1645406,00017123n,909410,punto medio
+http://www.wikidata.org/entity/Q1988917,,3216546,analisi dei dati
+http://www.wikidata.org/entity/Q2709591,,3112560,matrice di confusione
+http://www.wikidata.org/entity/Q2786686,,3606,quartile
+http://www.wikidata.org/entity/Q3064117,00714590n,1440714,faccia
+http://www.wikidata.org/entity/Q3128632,,585772,asse di un segmento
+http://www.wikidata.org/entity/Q3358290,00065404n,92291,piramide
+http://www.wikidata.org/entity/Q10861030,,3653,regressione lineare
+http://www.wikidata.org/entity/Q413,00056996n,2577462,fisica
+http://www.wikidata.org/entity/Q2873,,49731,Analisi delle componenti principali
+http://www.wikidata.org/entity/Q11379,00030820n,1706832,energia
+http://www.wikidata.org/entity/Q11408,00035487n,1637157,campo magnetico
+http://www.wikidata.org/entity/Q11421,00052712n,117978,magnete
+http://www.wikidata.org/entity/Q13824,,444218,velocità di fase
+http://www.wikidata.org/entity/Q25428,,2577458,differenza di potenziale elettrico
+http://www.wikidata.org/entity/Q30006,,132097,accelerazione di gravità
+http://www.wikidata.org/entity/Q38433,,1768865,principi della dinamica
+http://www.wikidata.org/entity/Q38867,00050072n,1709357,laser
+http://www.wikidata.org/entity/Q40164,,1808740,leva
+http://www.wikidata.org/entity/Q45284,,71808,funzione di verosimiglianza
+http://www.wikidata.org/entity/Q49906,,847,campionamento statistico
+http://www.wikidata.org/entity/Q49908,,605046,campionamento casuale
+http://www.wikidata.org/entity/Q49918,,1199503,popolazione statistica
+http://www.wikidata.org/entity/Q62932,00030081n,221853,elasticità
+http://www.wikidata.org/entity/Q72277,,200509,rifrazione
+http://www.wikidata.org/entity/Q123300,,344985,onda stazionaria
+http://www.wikidata.org/entity/Q124291,,115062,conduttore elettrico
+http://www.wikidata.org/entity/Q159190,,104443,ampiezza
+http://www.wikidata.org/entity/Q159375,,1555,deviazione standard
+http://www.wikidata.org/entity/Q161179,00062357n,2387746,pigmento
+http://www.wikidata.org/entity/Q164399,,107562,capacità elettrica
+http://www.wikidata.org/entity/Q165939,,147608,riflessione
+http://www.wikidata.org/entity/Q166046,00003541n,115603,amperometro
+http://www.wikidata.org/entity/Q172491,00025325n,91024,data mining
+http://www.wikidata.org/entity/Q174102,,110194,indice di rifrazione
+http://www.wikidata.org/entity/Q178150,00026997n,286922,isolatore
+http://www.wikidata.org/entity/Q179741,,115508,voltmetro
+http://www.wikidata.org/entity/Q182505,,4314,teorema di Bayes
+http://www.wikidata.org/entity/Q184609,,19505,Sistema esperto
+http://www.wikidata.org/entity/Q185020,,64313,istogramma
+http://www.wikidata.org/entity/Q185329,,210081,forza elettromotrice
+http://www.wikidata.org/entity/Q186290,,896,correlazione
+http://www.wikidata.org/entity/Q187787,,19386,algoritmo genetico
+http://www.wikidata.org/entity/Q188224,,2767,moda
+http://www.wikidata.org/entity/Q190087,,26742,tipo di dato
+http://www.wikidata.org/entity/Q190688,00011141n,111557,onda d'urto
+http://www.wikidata.org/entity/Q192776,00057388n,4100372,rete neurale artificiale
+http://www.wikidata.org/entity/Q207522,,40388,Funzione di densità di probabilità
+http://www.wikidata.org/entity/Q208391,,218922,Legge di Snell
+http://www.wikidata.org/entity/Q210832,,43370,test di verifica d'ipotesi
+http://www.wikidata.org/entity/Q215007,,264440,legge oraria
+http://www.wikidata.org/entity/Q234943,,436560,Riflessione interna totale
+http://www.wikidata.org/entity/Q245652,01522316n,4303005,Apprendimento ensemble
+http://www.wikidata.org/entity/Q245748,,4302983,Foresta casuale
+http://www.wikidata.org/entity/Q278079,,4414189,Probabilità a posteriori
+http://www.wikidata.org/entity/Q278090,,4145289,Distribuzione di probabilità a priori
+http://www.wikidata.org/entity/Q301990,,1216500,bootstrap
+http://www.wikidata.org/entity/Q310401,,599528,K-means
+http://www.wikidata.org/entity/Q327120,,2244534,Receiver operating characteristic
+http://www.wikidata.org/entity/Q334265,,272315,mezzo trasmissivo
+http://www.wikidata.org/entity/Q374081,,207577,Mescolanza sottrattiva
+http://www.wikidata.org/entity/Q380344,,3872,statistica descrittiva
+http://www.wikidata.org/entity/Q386780,03390685n,3645149,Regole di associazione
+http://www.wikidata.org/entity/Q462188,,346668,Scorrimento viscoso
+http://www.wikidata.org/entity/Q472074,,350632,plasticità
+http://www.wikidata.org/entity/Q507234,,229547,fatica
+http://www.wikidata.org/entity/Q513511,,1238309,Algoritmo apriori
+http://www.wikidata.org/entity/Q558066,,261778,campo gravitazionale
+http://www.wikidata.org/entity/Q569057,,1475788,rigidezza
+http://www.wikidata.org/entity/Q622825,,19781,clustering
+http://www.wikidata.org/entity/Q628374,,2292,ipotesi nulla
+http://www.wikidata.org/entity/Q657586,,28852,iperpiano
+http://www.wikidata.org/entity/Q669532,,109621,Livello energetico
+http://www.wikidata.org/entity/Q734219,,2380,indice di posizione
+http://www.wikidata.org/entity/Q798503,,5960762,backpropagation
+http://www.wikidata.org/entity/Q799897,00498997n,8208004,Bagging
+http://www.wikidata.org/entity/Q812540,,558366,rete Bayesiana
+http://www.wikidata.org/entity/Q829564,01776645n,418362,sistema di riferimento non inerziale
+http://www.wikidata.org/entity/Q831366,,100003,Albero di decisione
+http://www.wikidata.org/entity/Q845777,,840579,variabilità
+http://www.wikidata.org/entity/Q954529,,6121838,Regressione di Poisson
+http://www.wikidata.org/entity/Q968841,,2574744,Diagramma di corpo libero
+http://www.wikidata.org/entity/Q1044799,,275584,Urto elastico
+http://www.wikidata.org/entity/Q1045555,00614196n,71806,metodo della massima verosimiglianza
+http://www.wikidata.org/entity/Q1079524,,3223566,riflessione speculare
+http://www.wikidata.org/entity/Q1114630,,1105351,Dbscan
+http://www.wikidata.org/entity/Q1140289,,338662,Intensità acustica
+http://www.wikidata.org/entity/Q1333358,00048379n,3587354,Teorema della probabilità composta
+http://www.wikidata.org/entity/Q1417790,,4562805,Minima lunghezza di descrizione
+http://www.wikidata.org/entity/Q1744628,,3612028,classificazione statistica
+http://www.wikidata.org/entity/Q1810738,,210540,Linea di campo
+http://www.wikidata.org/entity/Q1916617,,3854,scarto interquartile
+http://www.wikidata.org/entity/Q1985691,,3177027,Polo
+http://www.wikidata.org/entity/Q2074917,,299780,urto anelastico
+http://www.wikidata.org/entity/Q2300258,,3678589,Distribuzione condizionata
+http://www.wikidata.org/entity/Q2359161,,2246484,precisione e recupero
+http://www.wikidata.org/entity/Q2414361,,2901939,Distanza di Minkowski
+http://www.wikidata.org/entity/Q2458815,,3353371,Grado di cristallinità
+http://www.wikidata.org/entity/Q2712821,,115537,compressione fisica
+http://www.wikidata.org/entity/Q3191282,,1103542,K-medoids
+http://www.wikidata.org/entity/Q3236003,,221400,durezza
+http://www.wikidata.org/entity/Q3294789,00052713n,1706822,magnetismo
+http://www.wikidata.org/entity/Q5120022,,121180,frattura
+http://www.wikidata.org/entity/Q5441227,,5960768,rete neurale feed-forward
+http://www.wikidata.org/entity/Q6661985,00025328n,26299,elaborazione dati
+http://www.wikidata.org/entity/Q6975395,,6394873,F1 score
+http://www.wikidata.org/entity/Q13553575,,2585115,spettroscopia di assorbimento
+http://www.wikidata.org/entity/Q55738334,,294308,circuiti in serie e in parallelo
+http://www.wikidata.org/entity/Q634,00052888n,8916,pianeta
+http://www.wikidata.org/entity/Q1075,00020726n,15482,colore
+http://www.wikidata.org/entity/Q1111,,717987,carica elettrica
+http://www.wikidata.org/entity/Q2225,,1770,elettrone
+http://www.wikidata.org/entity/Q3568,,161418,fuoco
+http://www.wikidata.org/entity/Q4213,00069738n,1253417,telescopio
+http://www.wikidata.org/entity/Q5322,00015415n,25642,condensatore
+http://www.wikidata.org/entity/Q9128,,8536,luce
+http://www.wikidata.org/entity/Q11376,,334,accelerazione
+http://www.wikidata.org/entity/Q11402,00035768n,9550,forza
+http://www.wikidata.org/entity/Q11412,,21947,interazione gravitazionale
+http://www.wikidata.org/entity/Q11423,00053662n,8925,massa
+http://www.wikidata.org/entity/Q11461,00000986n,2092669,suono
+http://www.wikidata.org/entity/Q11465,00073258n,4441,velocità
+http://www.wikidata.org/entity/Q11466,,8953,temperatura
+http://www.wikidata.org/entity/Q11570,00049021n,8775,chilogrammo
+http://www.wikidata.org/entity/Q11573,,2044085,metro
+http://www.wikidata.org/entity/Q11651,,2308500,corrente elettrica
+http://www.wikidata.org/entity/Q11652,,9553,frequenza
+http://www.wikidata.org/entity/Q18373,,24282,costante di gravitazione universale
+http://www.wikidata.org/entity/Q25269,,8990,joule
+http://www.wikidata.org/entity/Q25342,,83189,potenza
+http://www.wikidata.org/entity/Q25358,,45849,resistenza elettrica
+http://www.wikidata.org/entity/Q25406,,9640,coulomb
+http://www.wikidata.org/entity/Q26336,,16911,elettrostatica
+http://www.wikidata.org/entity/Q26708,00010510n,134503,teorema binomiale
+http://www.wikidata.org/entity/Q32043,,121221,addizione
+http://www.wikidata.org/entity/Q33540,,187594,limite di una funzione
+http://www.wikidata.org/entity/Q34735,00021309n,33549,bussola
+http://www.wikidata.org/entity/Q36253,00050662n,2579,lunghezza
+http://www.wikidata.org/entity/Q37172,00079036n,38911,onda
+http://www.wikidata.org/entity/Q39369,,8893,hertz
+http://www.wikidata.org/entity/Q40276,,124991,moltiplicazione
+http://www.wikidata.org/entity/Q40754,,123837,sottrazione
+http://www.wikidata.org/entity/Q41364,,9556,lunghezza d'onda
+http://www.wikidata.org/entity/Q41591,,63351,legge di Ohm
+http://www.wikidata.org/entity/Q42213,00081569n,8997,lavoro
+http://www.wikidata.org/entity/Q44528,00079654n,65715,vettore
+http://www.wikidata.org/entity/Q46221,,14789,campo elettrico
+http://www.wikidata.org/entity/Q46276,,47613,energia cinetica
+http://www.wikidata.org/entity/Q47083,,38959,Ohm
+http://www.wikidata.org/entity/Q48103,,556521,momento meccanico
+http://www.wikidata.org/entity/Q55451,,14776,potenziale elettrico
+http://www.wikidata.org/entity/Q76436,,38875,effetto Doppler
+http://www.wikidata.org/entity/Q79782,,292637,moto
+http://www.wikidata.org/entity/Q82580,00036520n,24912,attrito
+http://www.wikidata.org/entity/Q83152,,15818,forza di Coulomb
+http://www.wikidata.org/entity/Q83213,,18888,Effetto fotoelettrico
+http://www.wikidata.org/entity/Q107715,01632322n,17770,grandezza fisica
+http://www.wikidata.org/entity/Q118819,,81470,altezza
+http://www.wikidata.org/entity/Q120812,,111154,valore assoluto
+http://www.wikidata.org/entity/Q124255,00021856n,136524,sezione conica
+http://www.wikidata.org/entity/Q126592,,110720,funzioni pari e dispari
+http://www.wikidata.org/entity/Q130962,,22998,elettroscopio
+http://www.wikidata.org/entity/Q133139,,39135,spettro elettromagnetico
+http://www.wikidata.org/entity/Q133900,00027046n,213526,diffrazione
+http://www.wikidata.org/entity/Q134465,,42688,legge di gravitazione universale
+http://www.wikidata.org/entity/Q136980,00036570n,485282,Interferenza
+http://www.wikidata.org/entity/Q140028,,511435,caduta libera
+http://www.wikidata.org/entity/Q155640,,65999,energia potenziale
+http://www.wikidata.org/entity/Q161973,15961859n,209254,curva
+http://www.wikidata.org/entity/Q170282,,11260,legge di Hooke
+http://www.wikidata.org/entity/Q173523,,201604,progressione geometrica
+http://www.wikidata.org/entity/Q177239,,120737,limite
+http://www.wikidata.org/entity/Q177251,,197780,associatività
+http://www.wikidata.org/entity/Q179436,,135026,asintoto
+http://www.wikidata.org/entity/Q182893,,837373,Dispersione ottica
+http://www.wikidata.org/entity/Q184550,,2090986,energia meccanica
+http://www.wikidata.org/entity/Q184876,00022459n,6247197,sistema di riferimento
+http://www.wikidata.org/entity/Q184996,,58606,Isolante elettrico
+http://www.wikidata.org/entity/Q185674,00034267n,958210,campo
+http://www.wikidata.org/entity/Q187959,,198146,distributività
+http://www.wikidata.org/entity/Q188321,,1161642,principio di Huygens-Fresnel
+http://www.wikidata.org/entity/Q189569,,103296,base
+http://www.wikidata.org/entity/Q190291,,69468,spostamento
+http://www.wikidata.org/entity/Q192388,,69546,posizione
+http://www.wikidata.org/entity/Q192439,,205766,dominio
+http://www.wikidata.org/entity/Q192735,,73449,sistema di riferimento inerziale
+http://www.wikidata.org/entity/Q194391,,602818,ohmetro
+http://www.wikidata.org/entity/Q210028,,2766335,diffusione ottica
+http://www.wikidata.org/entity/Q216778,,18682,telescopio rifrattore
+http://www.wikidata.org/entity/Q216817,,2749273,spettro di emissione
+http://www.wikidata.org/entity/Q238053,00020670n,896150,urto
+http://www.wikidata.org/entity/Q240553,00029161n,2766819,Resistenza meccanica
+http://www.wikidata.org/entity/Q333268,,586797,Boom sonico
+http://www.wikidata.org/entity/Q381040,,131917,complesso coniugato
+http://www.wikidata.org/entity/Q467980,,93547,Ottica geometrica
+http://www.wikidata.org/entity/Q633620,,2206607,raggi di luce
+http://www.wikidata.org/entity/Q673166,,2037948,campo gravitazionale terrestre
+http://www.wikidata.org/entity/Q675287,,721201,ingrandimento
+http://www.wikidata.org/entity/Q691978,,2015075,onda trasversale
+http://www.wikidata.org/entity/Q841798,,15637,energia potenziale elettrica
+http://www.wikidata.org/entity/Q847204,,195731,limite di una successione
+http://www.wikidata.org/entity/Q908584,00076553n,79217,tensione
+http://www.wikidata.org/entity/Q912313,00051135n,2806922,microscopio ottico
+http://www.wikidata.org/entity/Q1506584,,5786552,Specchi curvi
+http://www.wikidata.org/entity/Q10281355,,71428,Moto parabolico
+http://www.wikidata.org/entity/Q12969754,,38616,radiazione elettromagnetica
+http://www.wikidata.org/entity/Q16667694,,152903,funzione cubica
+http://www.wikidata.org/entity/Q28113351,,208048,disuguaglianza
+http://www.wikidata.org/entity/Q8084,,40950,trigonometria
+http://www.wikidata.org/entity/Q11500,00005513n,48017,area
+http://www.wikidata.org/entity/Q11563,00058285n,520796,numero
+http://www.wikidata.org/entity/Q49008,00064389n,1369296,numero primo
+http://www.wikidata.org/entity/Q62494,,848371,sistema di coordinate polari
+http://www.wikidata.org/entity/Q82435,,43859,e
+http://www.wikidata.org/entity/Q111124,,42369,quadrato
+http://www.wikidata.org/entity/Q165474,,42953,commutatività
+http://www.wikidata.org/entity/Q181365,,64440,prodotto scalare
+http://www.wikidata.org/entity/Q182003,,76562,funzione iniettiva
+http://www.wikidata.org/entity/Q193794,,65248,matrice identità
+http://www.wikidata.org/entity/Q207527,,2218360,Onda sinusoidale
+http://www.wikidata.org/entity/Q218743,,1357716,Edge
+http://www.wikidata.org/entity/Q431617,,4582860,decomposizione in fratti semplici
+http://www.wikidata.org/entity/Q860623,,42767,immagine
+http://www.wikidata.org/entity/Q899731,,53609,Polo
+http://www.wikidata.org/entity/Q1879820,03333426n,3085527,risoluzione di un'equazione
+http://www.wikidata.org/entity/Q3884033,,3106888,operazione
+http://www.wikidata.org/entity/Q3926560,,1012521,Quadrante
+http://www.wikidata.org/entity/Q205,,1177064,infinito
+http://www.wikidata.org/entity/Q395,00053823n,2708,matematica
+http://www.wikidata.org/entity/Q3913,00010481n,8662,sistema numerico binario
+http://www.wikidata.org/entity/Q3968,00002676n,1539729,algebra
+http://www.wikidata.org/entity/Q7754,00003797n,1543724,analisi matematica
+http://www.wikidata.org/entity/Q11197,,2707085,logaritmo
+http://www.wikidata.org/entity/Q11203,,56928,sistema di equazioni lineari
+http://www.wikidata.org/entity/Q11205,,40041,aritmetica
+http://www.wikidata.org/entity/Q11214,00027034n,38045,equazione differenziale
+http://www.wikidata.org/entity/Q11345,00031293n,37746,equazione
+http://www.wikidata.org/entity/Q11348,00036821n,1862,funzione
+http://www.wikidata.org/entity/Q11538,,95417,dimostrazione matematica
+http://www.wikidata.org/entity/Q11567,00021375n,23432,numero complesso
+http://www.wikidata.org/entity/Q12503,00047009n,23289,numero intero
+http://www.wikidata.org/entity/Q12916,00066395n,23403,numero reale
+http://www.wikidata.org/entity/Q21199,00047009n,23233,numero naturale
+http://www.wikidata.org/entity/Q28390,,11816,grado d'arco
+http://www.wikidata.org/entity/Q29175,,1630,derivata
+http://www.wikidata.org/entity/Q33456,,71811,potenza
+http://www.wikidata.org/entity/Q35889,,308533,equazione parametrica
+http://www.wikidata.org/entity/Q36161,00070697n,16420,insieme
+http://www.wikidata.org/entity/Q40112,00030406n,1744,ellisse
+http://www.wikidata.org/entity/Q41237,,114522,funzione razionale
+http://www.wikidata.org/entity/Q41299,,38771,equazione di secondo grado
+http://www.wikidata.org/entity/Q43260,00056284n,3558,polinomio
+http://www.wikidata.org/entity/Q44337,00053849n,31077,matrice
+http://www.wikidata.org/entity/Q50695,00065503n,3180524,funzione quadratica
+http://www.wikidata.org/entity/Q50698,,38526,equazione algebrica
+http://www.wikidata.org/entity/Q104486,,302769,eccentricità
+http://www.wikidata.org/entity/Q134237,00073727n,3626,radice quadrata
+http://www.wikidata.org/entity/Q134787,00003804n,91262,geometria analitica
+http://www.wikidata.org/entity/Q149972,,128038,calcolo infinitesimale
+http://www.wikidata.org/entity/Q165301,00045483n,37548,iperbole
+http://www.wikidata.org/entity/Q170058,,2059793,funzione continua
+http://www.wikidata.org/entity/Q170181,,224802,teorema dei seni
+http://www.wikidata.org/entity/Q170198,00070613n,23394,serie
+http://www.wikidata.org/entity/Q178192,,66003,prodotto vettoriale
+http://www.wikidata.org/entity/Q178377,,77615,induzione matematica
+http://www.wikidata.org/entity/Q178546,,56184,determinante
+http://www.wikidata.org/entity/Q180159,,2668967,glossario della simbologia matematica
+http://www.wikidata.org/entity/Q180345,,1135815,Teorema delle radici razionali
+http://www.wikidata.org/entity/Q182598,,227182,grafico di una funzione
+http://www.wikidata.org/entity/Q184743,00061614n,231495,funzione periodica
+http://www.wikidata.org/entity/Q185148,,126866,intervallo reale
+http://www.wikidata.org/entity/Q185359,,4403,unione
+http://www.wikidata.org/entity/Q186247,,66621,Campo vettoriale
+http://www.wikidata.org/entity/Q188804,,1823,fattorizzazione
+http://www.wikidata.org/entity/Q191884,,246174,funzione inversa
+http://www.wikidata.org/entity/Q192760,,12917,teorema fondamentale dell'algebra
+http://www.wikidata.org/entity/Q194404,,263861,funzione monotona
+http://www.wikidata.org/entity/Q200227,,630336,numero negativo
+http://www.wikidata.org/entity/Q203425,,319137,circonferenza unitaria
+http://www.wikidata.org/entity/Q203435,,2614275,settore circolare
+http://www.wikidata.org/entity/Q204037,,267624,logaritmo naturale
+http://www.wikidata.org/entity/Q209875,,1419,coefficiente binomiale
+http://www.wikidata.org/entity/Q213363,03116354n,43634,insieme aperto
+http://www.wikidata.org/entity/Q214604,,2573122,radice
+http://www.wikidata.org/entity/Q216906,00056301n,1815927,Reciproco
+http://www.wikidata.org/entity/Q218005,00001296n,224968,sommatoria
+http://www.wikidata.org/entity/Q219142,,41866,notazione scientifica
+http://www.wikidata.org/entity/Q226183,,2401,insieme vuoto
+http://www.wikidata.org/entity/Q230967,,56968,parità
+http://www.wikidata.org/entity/Q242188,00053856n,39507,matrice invertibile
+http://www.wikidata.org/entity/Q243723,,15273,monomio
+http://www.wikidata.org/entity/Q244761,,229601,composizione di funzioni
+http://www.wikidata.org/entity/Q320357,,218726,insieme chiuso
+http://www.wikidata.org/entity/Q320723,,1855883,variabili dipendenti e indipendenti
+http://www.wikidata.org/entity/Q328998,,283011,piano complesso
+http://www.wikidata.org/entity/Q338057,,323938,elemento inverso
+http://www.wikidata.org/entity/Q484637,,38596,equazione lineare
+http://www.wikidata.org/entity/Q506265,,28421,matrice triangolare
+http://www.wikidata.org/entity/Q544886,,217228,Razionalizzazione
+http://www.wikidata.org/entity/Q582659,,1178819,Crescita esponenziale
+http://www.wikidata.org/entity/Q601053,,229756,radicale
+http://www.wikidata.org/entity/Q609566,,367434,matrice elementare
+http://www.wikidata.org/entity/Q609647,02345865n,37747,Identità
+http://www.wikidata.org/entity/Q651480,,208737,diagonale principale
+http://www.wikidata.org/entity/Q715746,,15193,moto circolare
+http://www.wikidata.org/entity/Q735660,,97243,sistema di equazioni
+http://www.wikidata.org/entity/Q746264,,229624,funzione costante
+http://www.wikidata.org/entity/Q787322,,638972,tavola trigonometrica
+http://www.wikidata.org/entity/Q842346,,130415,uguaglianza
+http://www.wikidata.org/entity/Q848539,,230403,Divisione per zero
+http://www.wikidata.org/entity/Q976981,,222191,formula
+http://www.wikidata.org/entity/Q1049914,,245984,moltiplicazione di matrici
+http://www.wikidata.org/entity/Q1052379,,365697,funzione logistica
+http://www.wikidata.org/entity/Q1060874,03870306n,340513,curva piana
+http://www.wikidata.org/entity/Q1068675,,2776743,Divisione dei polinomi
+http://www.wikidata.org/entity/Q1070472,,221185,topologia prodotto
+http://www.wikidata.org/entity/Q1193832,,696565,segno
+http://www.wikidata.org/entity/Q1194916,,4996029,Mereologia
+http://www.wikidata.org/entity/Q1226939,,130404,divisione
+http://www.wikidata.org/entity/Q1244890,00066253n,23290,numero razionale
+http://www.wikidata.org/entity/Q1306887,,110461,serie geometrica
+http://www.wikidata.org/entity/Q1341061,,411683,Minore
+http://www.wikidata.org/entity/Q1379344,,720811,Criterio di Cartesio
+http://www.wikidata.org/entity/Q1812158,,1885173,somma vuota
+http://www.wikidata.org/entity/Q2037833,,6897847,funzione definita a tratti
+http://www.wikidata.org/entity/Q2739329,00073722n,226926,matrice quadrata
+http://www.wikidata.org/entity/Q6498784,,41930,espressione matematica
